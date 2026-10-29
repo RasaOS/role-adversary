@@ -1,0 +1,26 @@
+{
+  "id": "adversary",
+  "name": "Adversary",
+  "summary": "Every request the person did not mark trivial",
+  "version": 1,
+  "consumers": [
+    "worker"
+  ],
+  "knowledge": [],
+  "takes": [],
+  "kinds": [],
+  "grants": [],
+  "crew": {
+    "tier": "member",
+    "card": "adversary",
+    "writes": false,
+    "stages": [
+      "plan",
+      "review"
+    ],
+    "when": "every request the person did not mark trivial",
+    "placeholders": [
+      "files"
+    ]
+  }
+}

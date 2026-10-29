@@ -1,0 +1,5 @@
+{
+  "name": "rasa-role-adversary",
+  "version": "0.1.0",
+  "description": "The Adversary role (`adversary`) as a RasaOS role module. Every request the person did not mark trivial"
+}
